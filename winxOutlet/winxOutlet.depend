@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1686962817 source:c:\users\edgarribeirogavioli\documents\programdesktop\first_project\winxoutlet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"functions.h"
+
+1686956071 c:\users\edgarribeirogavioli\documents\programdesktop\first_project\winxoutlet\functions.h
+
+1686956075 source:c:\users\edgarribeirogavioli\documents\programdesktop\first_project\winxoutlet\functions.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+
