@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1687823936 source:c:\users\edgarribeirogavioli\documents\programdesktop\first_project\crud\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1688155780 source:f:\downloads do pc\crudv2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
